@@ -1,3 +1,3 @@
 # Este repositorio es para planetas
-Para usarlo debes estar en la carpeta Planet
+Para usarlo debes estar en la carpeta Planet  
 `cd Planet`
